@@ -3,26 +3,32 @@ This is a simple podcast application using React and Firebase. This application 
 
 
 ### Signup page
-![signup](https://github.com/Lovegupta112/My-Podcast-App/assets/90507983/3b698011-1d16-4b9f-86db-23630f39bafe)
+![signup](https://github.com/Lovegupta112/My-Podcast-App/assets/90507983/edbea2d9-866e-4604-a41b-a6041941e71d)
+
 
 ### Login page
-![login](https://github.com/Lovegupta112/My-Podcast-App/assets/90507983/5dccefc5-53b8-40ad-abe4-5103ba0a0659)
+![login](https://github.com/Lovegupta112/My-Podcast-App/assets/90507983/8f9022eb-0e36-4b44-9c44-5858cec0abf0)
+
 
 ### Profile page 
-![profile1](https://github.com/Lovegupta112/My-Podcast-App/assets/90507983/de415d74-e885-4b54-b6b6-83349416d4b7)
-![profile2](https://github.com/Lovegupta112/My-Podcast-App/assets/90507983/837ec607-224e-44a3-b240-aeaaf7228030)
+![profile2](https://github.com/Lovegupta112/My-Podcast-App/assets/90507983/12ad1bee-36c0-4703-a1eb-7c67762eb9a4)
+![profile1](https://github.com/Lovegupta112/My-Podcast-App/assets/90507983/98b908a7-2c10-4ab8-a32f-c727d7cdfe60)
+
 
 ### Podcast Lists
-![podcastList](https://github.com/Lovegupta112/My-Podcast-App/assets/90507983/55a1b028-8567-4cca-ad6e-63c88bfeef74)
+![podcastList](https://github.com/Lovegupta112/My-Podcast-App/assets/90507983/cd6a8e18-da66-4313-9d08-da5871f9be46)
+
 
 ### Create Podcast Page 
-![createPodcast](https://github.com/Lovegupta112/My-Podcast-App/assets/90507983/515a467f-e855-4729-aa20-565d93c07b3c)
+![createPodcast](https://github.com/Lovegupta112/My-Podcast-App/assets/90507983/16a95b10-5ea9-4d4b-b92d-d6fdf8490dce)
+
 
 ### Podcast Details Page
-![podcastDetails](https://github.com/Lovegupta112/My-Podcast-App/assets/90507983/a06876d6-fb3c-491b-a16c-f2ceefdddc00)
+![podcastDetails](https://github.com/Lovegupta112/My-Podcast-App/assets/90507983/0bd5e9f4-3ab6-4795-ad26-c8bee3ae5c19)
+
 
 ### Create Episode Page
-![episode](https://github.com/Lovegupta112/My-Podcast-App/assets/90507983/b362f2bc-3d5a-410d-9d51-dc8b3061cd2e)
+![episode](https://github.com/Lovegupta112/My-Podcast-App/assets/90507983/2769b41b-1ac2-4561-a9d9-4e3b4f0a65c7)
 
 
 
