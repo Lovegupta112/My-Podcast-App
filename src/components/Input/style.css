@@ -1,0 +1,27 @@
+
+.custom-input{
+    display: block;
+    width: 100%;
+    line-height: 2.5;
+    padding:0.3rem 1rem;
+    font-size: 1rem;
+    border:1px solid var(--purple-grey);
+    width:100%;
+    background-color:transparent;
+    color:var(--white);
+    border-radius:6px;
+}
+
+input:focus{
+    outline: none;
+}
+
+.label-input{
+    color:var(--grey);
+    cursor: pointer;
+}
+
+.active-input{
+    border:1px solid var(--white);
+    cursor: pointer;
+}

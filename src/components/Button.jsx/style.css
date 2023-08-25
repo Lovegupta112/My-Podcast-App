@@ -1,0 +1,16 @@
+
+.custom-btn{
+width: 100%;
+font-size: 1.2rem;
+line-height: 2;
+background-color: transparent;
+cursor: pointer;
+border:1px solid white;
+color:var(--white);
+}
+
+.custom-btn:hover{
+    background-color:var(--white);
+    color:var(--purple);
+    transition:all 0.1s;
+} 
