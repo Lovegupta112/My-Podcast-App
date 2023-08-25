@@ -11,8 +11,9 @@ This is a simple podcast application using React and Firebase. This application 
 
 
 ### Profile page 
-![profile2](https://github.com/Lovegupta112/My-Podcast-App/assets/90507983/12ad1bee-36c0-4703-a1eb-7c67762eb9a4)
 ![profile1](https://github.com/Lovegupta112/My-Podcast-App/assets/90507983/98b908a7-2c10-4ab8-a32f-c727d7cdfe60)
+![profile2](https://github.com/Lovegupta112/My-Podcast-App/assets/90507983/12ad1bee-36c0-4703-a1eb-7c67762eb9a4)
+
 
 
 ### Podcast Lists
